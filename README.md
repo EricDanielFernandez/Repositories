@@ -1,2 +1,4 @@
-nombre: Eric Daniel Fernandez
-edad: 25
+<nombre> Eric </nombre>
+<edad> 25 </edad>
+<ocio> futbol, tecnologias y comunicacion </ocio>
+<carrera> ingenieria de telecomunicaciones </carrera>
